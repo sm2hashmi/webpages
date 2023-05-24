@@ -1,0 +1,115 @@
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    font-weight: bold;
+    font-style: italic;
+}
+p{
+    color: blueviolet;
+}
+.div1{
+    width:50%;
+    height:100px;
+    background-color: red;
+    
+}
+
+.div2{
+    width:50%;
+    height:100px;
+    background-color: red;
+    opacity: 0.75;
+}
+
+.div3{
+    width:50%;
+    height:100px;
+    background-color: red;
+    opacity: 0.60;
+}
+
+.div4{
+    width:50%;
+    height:100px;
+    background-color: red;
+    opacity: 0.45;
+
+}
+
+.div5{
+    width:50%;
+    height:100px;
+    background-color: red;
+    opacity: 0.30;
+}
+
+.div6{
+    width:50%;
+    height:100px;
+    background-color: red;
+    opacity: 0.15;
+}
+
+.div7{
+    width:50%;
+    height:100px;
+    background-color: green;
+}
+
+.div8{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    opacity: 0.15;
+}
+
+.div9{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    opacity: 0.30;
+}
+
+.div9{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    opacity: 0.45;
+}
+
+.div10{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    opacity: 0.60;
+}
+
+.div11{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    opacity: 0.75;
+}
+
+.div12{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    opacity: 0.85;
+}
+
+.div13{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    opacity: 0.90;
+}
+
+.div14{
+    width:50%;
+    height:100px;
+    background-color: blue;
+    
+}
